@@ -5,6 +5,8 @@ This is a  simple example of how a neural network works
 This can helped me understand how to build and train a neural network without using big libraries like TensorFlow/pytorch
 
 ---
+![image](https://github.com/user-attachments/assets/451b95f4-4068-4282-862c-aab28d8d85be)
+
 
 ## Files
 
