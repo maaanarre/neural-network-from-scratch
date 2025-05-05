@@ -1,17 +1,16 @@
 # neural-network-from-scratch
 
 
-This project is a simple example of how a neural network works.  
-It is written in Python and uses only **NumPy**.  
-This can help beginners understand how to build and train a neural network without using big libraries like TensorFlow or PyTorch.
+This is a  simple example of how a neural network works
+This can help beginners understand how to build and train a neural network without using big libraries like TensorFlow/pytorch
 
 ---
 
-## 📁 Files in This Project
+## Files
 
 ### 1. `Activation_Function.py`
 
-This file has the **activation functions**. These are used in the neural network to add non-linearity. It supports:
+This file has the **activation functions**. These are used in the NN. It supports:
 
 - ReLU (Rectified Linear Unit)
 - Sigmoid
@@ -26,7 +25,7 @@ Each function has:
 
 ### 2. `fc_layer.py`
 
-This file has the **fully connected layer** (also called dense layer). Each layer:
+This file has the **fully connected layer** (dense layzer). Each layer:
 
 - has weights (initialized randomly)
 - uses one activation function
